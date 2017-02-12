@@ -46,11 +46,11 @@ One of the last things I did with my program was separate the methods that focus
 
 The last things I worked on in my project were adding comments to all of my methods and perfecting some bugs in my Scraper methods.
 
-* Comments
+##Comments
 
 I really wanted to add comments to my program because I thought it would be great practice for me. Because most of my labs are test driven, I don't normally write comments for them. However, I felt it would be helpful for me in the future to have comments in my project in case I need to update any information later or fix anything. It also can be helpful for others trying to understand my code.
 
-* Bugs
+##Bugs
 
 Although I ran into bugs throughout my project process and fixed them, the last bugs that I took the time to fix were a few things that I had been having trouble fixing from the beginning. 
 
@@ -58,7 +58,7 @@ Although I ran into bugs throughout my project process and fixed them, the last 
 
 2. I was having trouble scraping habitat correctly. I had noticed that when there was not a 'place' and there was only a 'habitat' listed on the WWF website, my code did not scrape the correct habitat data, and had it as [Unlisted]. I decided to scrape the 'place' data as well and add this to my CLI output and Animal class because I felt it would be interesting information and I could write a few conditional statements to scrape both habitat and places correctly as their formatting on the WWF website worked hand-in-hand. (Originally I did not decide to scrape 'places'.) This took me a few hours to scrape correctly, but thankfully I managed to fix this bug!
 
-##Closing Remarks
+**Closing Remarks**
 
 Overall, I am very excited to see everything I have learned in the past few months work together and come to life! This first project has been a challenge, but has taught me so much about writing good OO Ruby and practice coding in general. It also taught me how useful Pry is in testing and debugging my code -- I will definitely use Pry more in the future.
 
