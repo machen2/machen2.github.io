@@ -24,7 +24,7 @@ When first tackling my project, I spent a lot of time in the beginning deciding 
 * The user has the choice to see another animal (and repeat the process) or exit the program.
 * The program ends with a closing thank you message.
 
-**Step 2: CLI and Animal Class **
+**Step 2: CLI and Animal Class**
 
 I started my project with a CLI class and an Animal class. I worked in the CLI file to come up with the basic methods I would use to run my CLI and print out the data after it is scraped. I used fake data at first in order to test if my CLI was structure was working as I planned.
 
