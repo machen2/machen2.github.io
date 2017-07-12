@@ -1,20 +1,20 @@
 ---
 layout: post
 title:  "My Sinatra Bucket List App"
-date:   2017-07-12 15:47:23 +0000
+date:   2017-07-12 11:47:23 -0400
 ---
 
 Today marks the day that I have finally finished my Sinatra Portfolio project. There have been a lot of things going on in my life (school, moving across states, etc.) and I am so happy to have gotten to this milestone. 
 
 I would love to say that I am a creative goddess and my mind is just churning out with different/wonderful project ideas -- but let me be honest with you, although the instructions for this project were simple and to the point, it took me a *long* time to come up with a project idea. I did not want my project to be too similar to the example project ideas that were suggested for the project (I figure, there must be tons of those projects out there by now). So, I spent a lot of time deciding on what I could do, ultimately choosing to make a bucket list app.
 
-### Summary
+# Summary
 
 My project allows a user to add life goals to thier bucket list. Once a life goal is added, the user can view the full bucket list, view the details of that specific goal, edit the goal, and delete the goal. 
 
 Users can also mark a goal complete when editing the goal and add a reflection. Once a goal is complete, it will be moved to the "Completed" section of their bucket list.
 
-### The Process 
+# The Process 
 
 Coming up with the idea is always the hardest part for a project for me (and most stressful, as the whole project centers around this one idea). So once I decided on my idea, I was extremely excited to start working on my project. I really enjoy the MVC framework and it seems to make a lot of sense to me. I'd like to think of myself as a somewhat organized person, and this is a great way to keep everything uniform and organized in your app. 
 
@@ -28,7 +28,7 @@ Lastly, I added the "Completed" feature to my project. While working on my proje
 
 After this, I added my README and made some final touches!
 
-### Something to Come Back to 
+# Something to Come Back to 
 
 This is more of a note-to-self, but something that I think I should come back to in the future:
 * flash messages!!  (I used flash messages in my project and had to do a lot of testing and a bit of debugging with them. If I have more time, I think reviewing further capabilities of flash messages would be great!)
