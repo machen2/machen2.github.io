@@ -6,7 +6,7 @@ date:   2017-07-12 11:47:23 -0400
 
 Today marks the day that I have finally finished my Sinatra Portfolio project. There have been a lot of things going on in my life (school, moving across states, etc.) and I am so happy to have gotten to this milestone. 
 
-I would love to say that I am a creative goddess and my mind is just churning out with different/wonderful project ideas -- but let me be honest with you, although the instructions for this project were simple and to the point, it took me a *long* time to come up with a project idea. I did not want my project to be too similar to the example project ideas that were suggested for the project (I figure, there must be tons of those projects out there by now). So, I spent a lot of time deciding on what I could do, ultimately choosing to make a bucket list app.
+I would love to say that I am a creative goddess and my mind is just churning out different/wonderful project ideas -- but let me be honest with you, although the instructions for this project were simple and to the point, it took me a *long* time to come up with a project idea. I did not want my project to be too similar to the example project ideas that were suggested in the instructions (I figure, there must be tons of those projects out there by now). So, I spent a lot of time deciding on what I could do, ultimately choosing to make a bucket list app.
 
 # Summary
 
