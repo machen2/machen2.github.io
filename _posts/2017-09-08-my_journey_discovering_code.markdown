@@ -10,7 +10,8 @@ This blog is highly overdue (and a bit long)!
 
 I am loving my experience so far!
 
-### Bit of background on me..
+Bit of background on me..
+-------------------------
 
 Three things that I would say got me to where I am today are 1) my love for art and creating things, 2) my love for learning in general, and 3) my love of cultures.
 
