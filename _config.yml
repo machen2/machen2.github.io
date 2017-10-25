@@ -4,7 +4,7 @@ header-img: img/home-bg.png
 email: victoriamachen@gmail.com
 copyright_name: machen2
 description: > # this means to ignore newlines until "baseurl:"
-  </>
+  #{Victoria Machen}
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  machen2
