@@ -1,10 +1,10 @@
 # Site settings
-title: From Pleb to Programmer
+title: My Journey Through Code
 header-img: img/home-bg.png
 email: victoriamachen@gmail.com
 copyright_name: machen2
 description: > # this means to ignore newlines until "baseurl:"
-  #{My Journey Through Code}
+  </>
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  machen2
