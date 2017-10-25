@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Diving into Test Driven Development"
-date:       2017-10-25 17:37:05 +0000
+title:      "Diving into Test-Driven Development"
+date:       2017-10-25 13:37:06 -0400
 permalink:  diving_into_test_driven_development
 ---
 
